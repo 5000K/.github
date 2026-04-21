@@ -1,2 +1,2 @@
 # Hi there 👋
-> This is 5000Kingdoms, an international collective of developers. we are building tools to make life easier, and games to make life more fun.
+> This is 5000K. 5000K builds software for people who want to own their tools, not rent access to them.
