@@ -1,2 +1,15 @@
+<div align=center>
+
 # Hi there 👋
-> This is 5000K. We build software for people who want to own their tools, not rent access to them.
+
+We are a team of software idealists.
+
+We make tools that stay with you.
+
+Small enough to understand.  
+Direct enough to use.  
+Solid enough to keep.
+
+[5000k.org](https://5000k.org/).
+
+</div>
